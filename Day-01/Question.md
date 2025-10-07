@@ -1,0 +1,13 @@
+The Nautilus development team has provided requirements to the DevOps team for a new application development project, specifically requesting the establishment of a Git repository. Follow the instructions below to create the Git repository on the Storage server in the Stratos DC:
+1. Utilize yum to install the git package on the Storage Server.
+2. Create a bare repository named /opt/cluster.git (ensure exact name usage).
+3. QUESTION.md
+
+Original task requirements
+Detailed task breakdown
+Environment information
+Implementation phases
+Critical requirements checklist
+Common mistakes to avoid
+Validation checklist
+Success metrics
