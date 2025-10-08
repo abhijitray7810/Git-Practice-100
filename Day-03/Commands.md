@@ -37,7 +37,3 @@ The cloned directory will appear as blog inside /usr/src/kodekloudrepos.
 ```yaml
 
 ---
-
-I can also **create a `STEPS.md`** version that’s like a guided tutorial for LinkedIn DevOps 365 posts if you want to publish it directly.  
-
-Do you want me to do that next?
