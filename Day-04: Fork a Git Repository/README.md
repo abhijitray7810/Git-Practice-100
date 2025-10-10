@@ -22,27 +22,27 @@ The Story Blog project allows users to write, publish, and manage blog stories. 
 ---
 
 ## Setup and Installation
-1. **Clone the forked repository:**
+### 1. **Clone the forked repository:**
    ```bash
    git clone https://<gitea-server-url>/jon/story-blog.git
 ````
 
-2. **Navigate to the project directory:**
+### 2. **Navigate to the project directory:**
 
    ```bash
    cd story-blog
    ```
-3. **Install dependencies (example for Node.js project):**
+### 3. **Install dependencies (example for Node.js project):**
 
    ```bash
    npm install
    ```
-4. **Start the application:**
+### 4. **Start the application:**
 
    ```bash
    npm start
    ```
-5. Open your browser and go to `http://localhost:3000` (or the port configured in your project).
+### 5. Open your browser and go to `http://localhost:3000` (or the port configured in your project).
 
 ---
 
@@ -56,22 +56,22 @@ The Story Blog project allows users to write, publish, and manage blog stories. 
 
 ## Contributing
 
-* Fork the repository and create a new branch for your feature or bug fix:
+### * Fork the repository and create a new branch for your feature or bug fix:
 
   ```bash
   git checkout -b feature/your-feature-name
   ```
-* Commit your changes:
+### * Commit your changes:
 
   ```bash
   git commit -m "Add feature: your-feature-description"
   ```
-* Push to your fork:
+### * Push to your fork:
 
   ```bash
   git push origin feature/your-feature-name
   ```
-* Create a pull request to merge your changes back to the original repository.
+### * Create a pull request to merge your changes back to the original repository.
 
 ---
 
