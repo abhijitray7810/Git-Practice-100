@@ -13,7 +13,7 @@ The Story Blog project allows users to write, publish, and manage blog stories. 
 
 ---
 
-## Features
+## Features 
 - User authentication and profile management
 - Create, read, update, delete (CRUD) operations for stories
 - Responsive and user-friendly UI
