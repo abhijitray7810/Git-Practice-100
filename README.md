@@ -65,7 +65,7 @@ Each day folder contains:
 | 08 | Bare Repository | Clone and work with bare repositories |
 | 09 | Branch Checkout | Switch between branches and manage branch states |
 | 10 | Branch Operations | Create, merge, and push branches |
-
+ 
 ### Advanced Topics (Days 30+)
 
 | Day | Topic | Description |
